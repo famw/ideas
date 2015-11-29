@@ -1,6 +1,4 @@
 # Final Assignment Ideas
----
-
 * [General-purpose environment simulator](environment-simulator.md)
 * [Build an AI to play a game](game-ai.md)
 * [SpelunkBots AI](spelunkbots-ai.md)
