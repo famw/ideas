@@ -1,4 +1,7 @@
 # Final Assignment Ideas
+
+> NOTE: we will develop an AI to play Spelunky :)
+
 * [General-purpose environment simulator](environment-simulator.md)
 * [Build an AI to play a game](game-ai.md)
 * [SpelunkBots AI](spelunkbots-ai.md)
